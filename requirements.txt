@@ -1,0 +1,5 @@
+python-binance
+numpy
+pyautogui
+opencv-python
+binance~=0.3

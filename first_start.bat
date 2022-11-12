@@ -1,0 +1,1 @@
+cmd /k "pip install mouse pip install python-binance pywin32"
